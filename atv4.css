@@ -9,6 +9,7 @@ body{
     align-items: center;
     display: grid;
     overflow-x: hidden;
+    overflow-y: hidden;
 }
 h1{
     color: #fff;
